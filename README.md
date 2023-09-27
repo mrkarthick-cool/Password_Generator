@@ -7,7 +7,7 @@ Password generator this tool used to generate a world list easy way beginners ea
 
 
   >> pkg updated -y && clear && pkg upgrade -y && 
-clear && pkg install lolcat -y && pkg install openssl -y && clear &&
+clear && gem install lolcat && clear &&   gem update --system 3.4.19 && pkg install ruby -y && pkg install openssl -y && clear &&
 pkg install git -y && clear &&
 git clone https://github.com/mrkarthick-cool/Password_Generator.git
 
