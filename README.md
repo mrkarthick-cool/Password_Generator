@@ -6,7 +6,7 @@ Password generator this tool used to generate a world list easy way beginners ea
 # Tool_Installation  Termux 
 
 
-[ pkg updated -y && clear && pkg upgrade -y && 
+[  ✓ >> pkg updated -y && clear && pkg upgrade -y && 
 clear && pkg install lolcat -y && pkg install openssl -y && clear &&
 pkg install git -y && clear &&
 git clone https://github.com/mrkarthick-cool/Password_Generator.git
