@@ -10,4 +10,21 @@ pkg updated -y && clear && pkg upgrade -y &&
 clear && pkg install lolcat -y && pkg install openssl -y && clear &&
 pkg install git -y && clear &&
 git clone https://github.com/mrkarthick-cool/Password_Generator.git
-&& 
+
+ # Tool executed / run 
+ 
+   
+  clear && chmod +x * && clear && ./'Password generator.c'
+
+
+  # about more information
+
+   contact Telegram Group 
+    
+    [ ✓  >> https://telegram.me/teluguhackersgroup1 ]
+
+   
+
+  
+
+ 
