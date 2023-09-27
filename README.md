@@ -15,7 +15,7 @@ git clone https://github.com/mrkarthick-cool/Password_Generator.git
  # Tool executed / run 
  
    
-  clear && chmod +x * && clear && ./'Password generator.c'
+  clear && chmod +x * && clear && ./'Password generator.sh'
 
 
   # about more information
